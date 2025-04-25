@@ -1,0 +1,5 @@
+C:\Users\Student RM4-3073 04.IT\Documents\GitHub\PU_KOL1\StudentManagement.DAL\obj\Debug\net8.0\StudentManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 04.IT\Documents\GitHub\PU_KOL1\StudentManagement.DAL\obj\Debug\net8.0\StudentManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 04.IT\Documents\GitHub\PU_KOL1\StudentManagement.DAL\obj\Debug\net8.0\StudentManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 04.IT\Documents\GitHub\PU_KOL1\StudentManagement.DAL\obj\Debug\net8.0\StudentManagement.DAL.AssemblyInfo.cs
+C:\Users\Student RM4-3073 04.IT\Documents\GitHub\PU_KOL1\StudentManagement.DAL\obj\Debug\net8.0\StudentManagement.DAL.csproj.CoreCompileInputs.cache
